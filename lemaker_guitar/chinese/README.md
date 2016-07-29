@@ -1,1 +1,1 @@
-**This directory is used to saved documentation written in chinese for the LeMaker Guitar.**
+**This directory is used to save documentation written in chinese for the LeMaker Guitar.**
